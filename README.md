@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=150&section=header" />
   
-  # HI, I am Gabriela Vieira! 👋
+  # HI, I am Gabriela Vieira! 
 
   Atualmente estudante de Ciência de Dados e Inteligência Artificial na **UEL (Universidade Estadual de Londrina)**. 
   Meu foco está em transformar dados em insights e explorar o potencial da Inteligência Artificial.
@@ -11,11 +11,9 @@
 
 ### 🛠 Tecnologias em Evolução 
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Linguagens de Programação** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Dados & Consultas** | ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+**Linguagens & Dados** `Python` • `SQL` • `R` • `C` • `C++` • `Pandas`
+
+**Ferramentas** `Git` • `GitHub`
 
 ---
 
