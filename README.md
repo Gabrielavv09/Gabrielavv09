@@ -9,9 +9,10 @@
   <br />
 
   <h3>Tecnologias em Evolução</h3>
-  
-  <p>
-    <b>Linguagens & Dados</b> <code>Python</code> • <code>SQL</code> • <code>R</code> • <code>C</code> • <code>C++</code> • <code>Pandas</code>
+<p>
+    <b>Linguagens & Dados</b> <code>Python</code> • <code>SQL</code> • <code>PostgreSQL</code> • <code>R</code> • <code>Pandas</code>
+    <br>
+    <b>Outras Linguagens</b> <code>C</code> • <code>C++</code>
     <br>
     <b>Ferramentas</b> <code>Git</code> • <code>GitHub</code>
   </p>
