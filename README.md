@@ -8,7 +8,7 @@
 
   <br />
 
-  <h3>Tecnologias em Evolução</h3>
+  <h3>Tecnologias em Evolução:</h3>
 <p>
     <b>Linguagens & Dados</b> <code>Python</code> • <code>SQL</code> • <code>PostgreSQL</code> • <code>R</code> • <code>Pandas</code>
     <br>
