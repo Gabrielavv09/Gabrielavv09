@@ -1,6 +1,11 @@
-# HI, I am Gabriela Vieira! 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=150&section=header" />
+  
+  # HI, I am Gabriela Vieira! 👋
 
-Atualmente estudante de Ciência de Dados e Inteligência Artificial na **UEL (Universidade Estadual de Londrina)**. Meu foco está em transformar dados em insights e explorar o potencial da Inteligência Artificial.
+  Atualmente estudante de Ciência de Dados e Inteligência Artificial na **UEL (Universidade Estadual de Londrina)**. 
+  Meu foco está em transformar dados em insights e explorar o potencial da Inteligência Artificial.
+</div>
 
 ---
 
@@ -14,19 +19,15 @@ Atualmente estudante de Ciência de Dados e Inteligência Artificial na **UEL (U
 
 ---
 
-### 📊 Estatísticas do GitHub
+<div align="center">
+  ### 📫 Vamos nos conectar?
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielavv09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielavv09&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-vieira-87b17a273)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielavvieira9@gmail.com)
 
----
+  <br />
+  
+  *Transformando dados em decisões e aprendendo algo novo todos os dias.*
 
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-vieira-87b17a273)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielavvieira9@gmail.com)
-
----
-*Transformando dados em decisões e aprendendo algo novo todos os dias.*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=100&section=footer" />
+</div>
