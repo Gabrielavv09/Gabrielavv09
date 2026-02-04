@@ -7,7 +7,6 @@
   Meu foco está em transformar dados em insights e explorar o potencial da Inteligência Artificial.
 </div>
 
----
 
 ###  Tecnologias em Evolução 
 
@@ -15,10 +14,9 @@
 
 **Ferramentas** `Git` • `GitHub`
 
----
 
 <div align="center">
-  ###  Vamos nos conectar?
+  #  Vamos nos conectar?
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-vieira-87b17a273)
   [![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=gmail&logoColor=white)](mailto:gabrielavvieira9@gmail.com)
